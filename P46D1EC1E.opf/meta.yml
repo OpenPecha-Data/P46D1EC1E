@@ -1,0 +1,109 @@
+id: P46D1EC1E
+initial_creation_type: input
+source_metadata:
+  title: Mañjuśrī Series
+  language: pt
+  description: 'Texts related to Mañjuśrī (''jam dpal) or Mañjughoṣa (''jam pa''i
+    dbyangs), the Buddha or Bodhisattva of Wisdom:'
+  volume:
+    4c5a0cc4c3144e74bc386f6eab592328:
+      title: Ārya Mañjuśrī Tantra Garbha
+      parent: Ārya Mañjuśrī Tantra Citta
+    a833731588f84d53b9c7c193d2faaade:
+      title: Ārya Mañjuśrī Tantra Garbha—commentary
+      parent: Ārya Mañjuśrī Tantra Citta
+    2a807143f0f142bfba7efe9bc78fca5d:
+      title: 'Wisdom''s Bestowal: A Way to Accumulate the Recitation of the Tantra
+        ''Chanting the Names of Mañjuśrī'' (Mañjuśrī Nāma Saṃgīti)'
+      parent: Chanting the Names of Mañjuśrī
+    6b5408b370e84e31ba1fef2eb591a181:
+      title: 'The Precious Jewelled Key: A Synopsis of the Aspiration of the Great
+        Perfection Mañjuśrī'
+      parent: Dzogchen
+    c419e39ba2e24d498e25f4219d22c4b3:
+      title: 'Self-Radiance of Indestructible Awareness and Emptiness: An Aspiration
+        towards the Meaning of the Indivisible Ground, Path and Fruition of the Great
+        Perfection Mañjuśrī'
+      parent: Dzogchen
+    968445c0b2564dccb10e225af50c67d4:
+      title: 'The Healing Medicine of Faith: A Prayer to the Lineage of the Peaceful
+        Sādhana of Mañjuśrī'
+      parent: Lineage Prayers
+    8266ee60918b4fb7bae11143a286ea18:
+      title: The Meaning of the Six Syllables of the King of Vidyā-Mantras, the Heroic
+        Lord Mañjuśrī
+      parent: Mantra
+    987ad549e00349a28add7d677ddfc334:
+      title: 'The Fresh Saffron Flower: In Praise of Venerable Mañjughoṣa'
+      parent: Praise
+    f43979e06cce4d85a3aaae317fd3c2e3:
+      title: 'The Light of Wisdom: Praise to Mañjuśrī'
+      parent: Praise
+    fe9b1a7aa9e54658a3e63cc33a05ce03:
+      title: 'The Lute of Vajra Harmony: Praise to the Protector Mañjuśrī'
+      parent: Praise
+    8efcb250ec75491d87881bd8ab99e6f1:
+      title: 'The Swift Infusion of Blessings: In Praise of Mañjughoṣa'
+      parent: Praise
+    b08ea09a045b4d4abed96c27c14783bd:
+      title: 'In Praise of Mañjuśrī: Increasing Intelligence to the Full'
+      parent: Praise
+    41017c96f21442f59329d0abd5b7dfde:
+      title: 'In Praise of Mañjuśrī: The Great Treasure of Blessings'
+      parent: Praise
+    e91d59741d5c40c89a20dafa89a94b41:
+      title: In Praise of the Protector Mañjughoṣa
+      parent: Praise
+    4fff15c155444d6c984ac335c870479d:
+      title: Ultimate Praise of the Noble and Venerable Mañjuśrī
+      parent: Praise
+    cc5f11314ed3473f9f009513f12ba80f:
+      title: Praise to Mañjughoṣa
+      parent: Praise
+    e9d4b59a64cd4c4c8030e9826408c394:
+      title: 'A Few Remarks: An Explanation of the Praise to Noble Mañjuśrī known
+        as Glorious Wisdom’s Excellent Qualities'
+      parent: Praise to Mañjuśrī—Glorious Wisdom's Excellent Qualities
+    46017fc46b674de58f53e9f2961c6338:
+      title: 'Bestower of the Light of Intelligence: A Prayer to the Lineage of the
+        Profound Sādhana Based Upon the Praise to Venerable Mañjughoṣa'
+      parent: Praise to Mañjuśrī—Glorious Wisdom's Excellent Qualities
+    624ca1ae3e56449990f90975b1dba8bb:
+      title: The Praise to Mañjuśrī—Glorious Wisdom's Excellent Qualities
+      parent: Praise to Mañjuśrī—Glorious Wisdom's Excellent Qualities
+    4ba9a379a80e425292f92f2142b18283:
+      title: A Prayer to Mañjuśrī
+      parent: Prayers
+    f7f6e958b371427bae992f0d53e138f6:
+      title: Prayer to Bhagavān Mañjughoṣa
+      parent: Prayers
+    b73221005a6b4683b0e282ea9c7a5406:
+      title: Prayer to the Lion of Speech
+      parent: Prayers
+    504943eddfa94654a43b2299552c8298:
+      title: Prayer to Mañjuśrī
+      parent: Prayers
+    d019d459cb684cf6af660ce6f19cf29f:
+      title: A Prayer to Mañjughoṣa
+      parent: Prayers
+    8b2887a572df469aad9db1f6d9fa87b4:
+      title: 'The Torch of Wisdom: A Method of Offering Butter Lamps Based on Ārya
+        Mañjuśrī'
+      parent: Rituals
+    7d9fd759d0b24700946a83ff51e2ec54:
+      title: Light from the Wisdom Sun
+      parent: Sādhanas
+    b8fc86bb638946caaa131d95c0a7deff:
+      title: A Sādhana of Golden Mañjughoṣa
+      parent: Sādhanas
+    ede58c46da1b48e48b91d401b5b85b34:
+      title: 'Swift Bestowal of Blessings: A Peaceful Sādhana of Mañjuśrī'
+      parent: Sādhanas
+    61a27eb111dc47948d433226e18c37d3:
+      title: A Brief Mañjuśrī Sādhana
+      parent: Sādhanas
+    3150ea6ec71c4ece9a54ae3886225127:
+      title: Sādhana of Mañjughoṣa
+      parent: Sādhanas
+created_at: '2022-03-01T04:36:26.582464'
+last_modified_at: '2022-03-01T04:36:26.582466'
